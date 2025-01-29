@@ -1,4 +1,4 @@
-# devops
+# Devops
 defination:DevOps is a combination of software development (dev) and operations (ops)
 Methodologies:
 1. waterfall
