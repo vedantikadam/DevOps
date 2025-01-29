@@ -1,12 +1,13 @@
 # Devops
-defination:DevOps is a combination of software development (dev) and operations (ops)
+defination: DevOps is a combination of software development (dev) and operations (ops)
+
 Methodologies:
 1. waterfall
 2. agile
 3. devops
 
 
-## $${\color {red} \textbf {SDLC: software development life cycle}}$$
+## $${\color {red} \textbf {SDLC: Software development life cycle}}$$
 ### ${\color{blue} \textbf {Phases of SDLC:}}$
 - Requirement
 - Planning
